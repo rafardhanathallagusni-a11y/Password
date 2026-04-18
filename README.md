@@ -1,2 +1,3 @@
-# Password
-Pw Sc
+{
+  "password": "BLACKDEVIL", 
+}
